@@ -1,0 +1,11 @@
+[theme]
+# Primary accent color for buttons, links, etc.
+primaryColor = "#007BFF" 
+# Main background color (White)
+backgroundColor = "#FFFFFF" 
+# Sidebar, input field backgrounds (Very light blue)
+secondaryBackgroundColor = "#F0F8FF"
+# Text color
+textColor = "#333333" 
+# Font
+font = "sans serif"
