@@ -64,7 +64,7 @@ if st.session_state.current_page == "Login":
             else:
                 st.error("Please fill in all fields.😰")
 
-        st.image("img\signup.png", width=350)
+        st.image("img/signup.png", width=350)
 
     elif page_choice == "Login":
         st.title("GDP and Productivity Visualisation App 📈")
@@ -81,7 +81,7 @@ if st.session_state.current_page == "Login":
             else:
                 st.error("Invalid credentials. Please try again.😰 Or SignIn if account not created!!")
 
-        st.image("img\login.png",  width=400,)
+        st.image("img/login.png",  width=400,)
 
 elif st.session_state.current_page == "Home":
     # Sidebar navigation
@@ -90,7 +90,7 @@ elif st.session_state.current_page == "Home":
     if page == "Home":
         st.markdown(f" ### Welcome {st.session_state.user_name}!")
         st.title("GDP and Productivity Visualisation App 📈")
-        st.image("img\Screenshot 2025-10-19 134910.png", width=700)
+        st.image("img/Screenshot 2025-10-19 134910.png", width=700)
 
         #filters
         cities = df['City'].unique()
@@ -277,7 +277,7 @@ elif st.session_state.current_page == "Home":
             except Exception as e:
                 st.error(f"Error: {str(e)}")
         print("\n")
-        st.image("img\chatbot.png", width=400)
+        st.image("img/chatbot.png", width=400)
 
     elif page == "Feedback":
         st.title("Feedback")
@@ -312,12 +312,12 @@ elif st.session_state.current_page == "Home":
             else:
                 st.error("Both fields are required. Please fill them out.")
 
-        st.image("img\Screenshot 2025-10-19 125522.png", width=400)
+        st.image("img/Screenshot 2025-10-19 125522.png", width=400)
 
     elif page == "Logout":
         st.title("Logged Out Successfully 👋")
         st.markdown("You have been logged out. See you again soon!")
-        st.image("img\log out.png", width=350)        
+        st.image("img/log out.png", width=350)        
         st.session_state.authenticated = False
         st.session_state.user_name = None
         st.session_state.current_page = "Login"
