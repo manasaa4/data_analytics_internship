@@ -8,8 +8,7 @@ import hashlib
 
 
 # Load the dataset
-df = pd.read_csv("C:\gdp_productivity\dashboard_data.csv")
-
+df = pd.read_csv("dashboard_data.csv")
 # Load environment variables from .env
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
