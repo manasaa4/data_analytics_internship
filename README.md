@@ -28,36 +28,3 @@ The **GDP and Productivity Visualization App** is an interactive data-driven web
 The app aims to empower users—ranging from policymakers to students and analysts—with actionable insights into economic performance. It serves as a tool to better understand regional productivity and drive data-informed decisions.
 
 
-## Screenshots
-
-**Sign Up Page**
-
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/SignupPge.png)
-
-**Log In Page**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/loginPage.png)
-
-**Home Page**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/homePg1.png)
-
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/homePg5.png)
-
-**Power BI Embedded Interactive Dashboard**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/embdeddahboard.png)
-
-**AI Integrated Chatboot**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/chatbot.png)
-
-**Feedback Page**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/feedback.png)
-
-**Log Out Page**
-![App Screenshot](https://github.com/Springboard-Internship-2024/GDP-and-Productivity-of-Indian-Cities_December_2024/blob/Mehwish/logout.png)
-
-
-
-
-## Authors
-
-- [@mehwish4610](https://www.github.com/mehwish4610)
-
